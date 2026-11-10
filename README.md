@@ -1,6 +1,17 @@
 # forecast_econ
 ---
-
+question_id: LKOH_MOEX_07.12
+author: Miron322
+topic: Котировки акции Лукойл на МосБирже
+opens: 10.11.2026
+resolve_by: 07.11.2026 19:00
+horizon: Н1
+date_set_by: МосБиржа, Лукойл
+forecast_pct: 55
+ai_baseline_pct: 40
+ai_model: Gemini, 10.11.2026
+status: открыт
+outcome: ⟨заполняется после разрешения: да · нет⟩
 ---
 
 <!-- Шаблон карточки прогноза. Скопируйте всё в README.md своего репозитория.
